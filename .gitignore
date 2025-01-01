@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# http://localhost:5005/app/auth/logout
+# http://localhost:5005/app/auth/check
+# http://localhost:5005/app/auth/login
+# {
+#   "fullName": "John doe4",
+#   "email": "johndo4e@example.com",
+#   "password": "Secur4eP@ss1232"
+# }
+#http://localhost:5005/app/auth/signup
+# app/auth/update-profile
